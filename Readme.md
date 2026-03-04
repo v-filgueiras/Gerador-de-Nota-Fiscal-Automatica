@@ -1,1 +1,3 @@
 Este projeto consiste no desenvolvimento de uma aplicação em Python voltada para a geração automatizada de notas fiscais simplificadas em formato PDF a partir de dados estruturados em arquivo CSV. A solução foi construída com foco em organização de código, clareza estrutural e separação de responsabilidades entre leitura de dados, processamento e geração do documento final.
+
+O projeto utiliza a biblioteca Pandas para manipulação de dados e ReportLab para construção programática do PDF, explorando recursos como tabelas estilizadas, controle de layout e formatação visual. A implementação busca refletir boas práticas no tratamento de dados e na geração de documentos dinâmicos, simulando um cenário comum em sistemas administrativos e comerciais.
