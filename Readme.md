@@ -1,0 +1,1 @@
+Este projeto consiste no desenvolvimento de uma aplicação em Python voltada para a geração automatizada de notas fiscais simplificadas em formato PDF a partir de dados estruturados em arquivo CSV. A solução foi construída com foco em organização de código, clareza estrutural e separação de responsabilidades entre leitura de dados, processamento e geração do documento final.
